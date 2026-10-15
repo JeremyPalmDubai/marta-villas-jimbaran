@@ -1,0 +1,15 @@
+{
+  "name": "marta-villas-jimbaran",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MARTA x PALM — Private villas in Jimbaran, Bali",
+  "type": "module",
+  "main": "server.js",
+  "engines": { "node": ">=22 <25" },
+  "scripts": {
+    "build": "node tools/check-build.mjs",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": { "express": "^5.1.0" }
+}
