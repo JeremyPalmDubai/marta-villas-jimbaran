@@ -6,3 +6,6 @@ previews/
 
 audit/*.jpg
 tools/prepare-assets.py
+node_modules/
+.env
+.env.*
