@@ -1,6 +1,5 @@
 # MARTA × PALM — Résidences privées à Bali
 
-Site local multilingue, prêt pour GitHub Pages. Référence visuelle : https://investorday.nuanu.com/. Identité MARTA × PALM Signature, palette #d4eea0 / #142b20 / #ffffff / #f4f3ef, typographie Suisse, accueil en deux colonnes, grandes images, vidéos et navigation fixe.
 
 ## Ouvrir le site
 
