@@ -28,7 +28,21 @@ Pour un hébergement avec une adresse connue :
 python3 tools/build.py --base-url https://marta-villas-jimbaran.com
 ```
 
-Aucune dépendance JavaScript à installer, aucun service serveur à héberger. Le site est écrit en HTML, CSS et JavaScript ; la référence visuelle est reproduite pour le contenu MARTA, sans reprise de ses services internes.
+Les pages et les médias sont pré-générés dans `dist`. Le serveur Express fourni permet aussi leur hébergement comme application Node.js.
+
+## Hostinger — application Node.js
+
+- Dépôt : `JeremyPalmDubai/marta-villas-jimbaran`, branche `main`.
+- Répertoire racine : `.` (celui contenant `package.json`).
+- Framework : **Express**, Node.js **22** ou **24**.
+- Installation : `npm install` (ou installation automatique avec le verrou pnpm fourni).
+- Build : `npm run build`.
+- Démarrage : `npm start`, fichier d’entrée `server.js`.
+- Si un répertoire de sortie est demandé pour cette application Express : `.` ; il doit conserver `server.js` et `dist/` ensemble.
+
+Le port est fourni par la variable `PORT` de l’hébergeur. Le serveur prend en charge les six langues, les réponses 404 et les lectures partielles des vidéos. Le build vérifie les pages pré-générées et leurs ressources ; aucun Python n’est nécessaire sur Hostinger. Après modification des textes du générateur, régénérer `dist` localement avant de mettre à jour le dépôt.
+
+Référence : https://www.hostinger.com/support/how-to-deploy-a-nodejs-website-in-hostinger/
 
 ## GitHub Pages
 
