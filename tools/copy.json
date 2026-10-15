@@ -1,0 +1,692 @@
+{
+  "fr": {
+    "nav": [
+      "Les villas",
+      "Bali",
+      "Acquérir"
+    ],
+    "cta": "Recevoir le dossier",
+    "discover": "Découvrir les villas",
+    "hero": "Vivre Bali.\nAutrement.",
+    "heroBody": "Six villas privées à Jimbaran. L’élégance méditerranéenne, l’âme balinaise.",
+    "from": "À partir de",
+    "price": "225 000 $",
+    "area": "d’espace à vivre",
+    "beds": "chambres",
+    "private": "villas privées",
+    "sold": "déjà vendu",
+    "soldNote": "Disponibilité communiquée par le promoteur.",
+    "intro": "Un autre rythme.\nUne autre vie.",
+    "introBody": "La lumière entre. Le temps ralentit. Une maison ouverte sur la nature, pensée pour vivre Bali pleinement.",
+    "quality": "French quality. Bali soul.",
+    "qualityBody": "Une exigence française, une architecture contemporaine et des matières qui donnent envie de rester.",
+    "living": "Dedans. Dehors.\nTout simplement.",
+    "livingBody": "Un salon en contrebas, de grandes baies vitrées et une piscine privée. Les espaces se répondent, naturellement.",
+    "bedroom": "Le luxe du calme.",
+    "bedroomBody": "Deux chambres, des textures douces et la lumière des palmiers. Votre refuge, à votre rythme.",
+    "dining": "Les jours heureux.",
+    "diningBody": "Cuisiner, partager, prolonger la soirée. Le plaisir d’une vraie maison.",
+    "plans": "150 m².\nTout trouve sa place.",
+    "plansBody": "Deux niveaux, deux chambres, une piscine privée. Découvrez l’organisation des espaces et le plan du domaine.",
+    "floor": "Plan de la villa",
+    "master": "Plan du domaine",
+    "enlarge": "Agrandir le plan",
+    "close": "Fermer",
+    "planNote": "Plans et surfaces indicatifs, sous réserve des documents contractuels.",
+    "baliTitle": "Bali.\nUne évidence.",
+    "baliBody": "L’océan, les paysages, la culture. Une destination à vivre autant qu’un lieu où revenir.",
+    "baliReasons": [
+      [
+        "L’art de vivre",
+        "Plages, restaurants, bien-être et couchers de soleil. Chaque journée trouve son équilibre."
+      ],
+      [
+        "Une destination désirée",
+        "Une scène internationale, une culture singulière et de multiples façons de découvrir l’île."
+      ],
+      [
+        "Votre pied-à-terre",
+        "Profiter de votre villa et envisager la location courte durée avec l’équipe du projet."
+      ]
+    ],
+    "location": "Jimbaran.\nÀ la bonne adresse.",
+    "locationBody": "Le sud de Bali à portée de main. Entre plages, grandes adresses et vie quotidienne.",
+    "places": [
+      "Hôtel AYANA",
+      "Four Seasons",
+      "Plage de Jimbaran",
+      "Universe Padel",
+      "Aéroport international"
+    ],
+    "map": "Voir sur la carte",
+    "timeNote": "Distances et trajets indicatifs fournis par le promoteur, selon le trafic.",
+    "buy": "Votre villa.\nÀ votre façon.",
+    "buyBody": "Un achat à distance possible et un plan de paiement flexible, étudié avec vous.",
+    "steps": [
+      [
+        "Découvrir",
+        "Visite sur place ou en visio, présentation des plans et des disponibilités."
+      ],
+      [
+        "Construire votre projet",
+        "Échange sur votre villa et sur l’échéancier de paiement adapté à votre situation."
+      ],
+      [
+        "Avancer accompagné",
+        "Modalités d’acquisition, documents et suivi du projet avec l’équipe."
+      ]
+    ],
+    "payment": "Paiement flexible",
+    "remote": "Achat à distance",
+    "paymentNote": "Échéancier, conditions d’acquisition et frais à confirmer dans votre proposition personnalisée.",
+    "faqTitle": "Tout commence\npar une question.",
+    "faqs": [
+      [
+        "Peut-on acheter à distance ?",
+        "Oui. L’équipe peut organiser une présentation en visio et vous accompagner dans les différentes étapes. Les modalités de signature sont à confirmer avec elle."
+      ],
+      [
+        "Quel est le prix de départ ?",
+        "Les villas sont proposées à partir de 225 000 USD. La grille de prix, les frais et les disponibilités à jour sont communiqués sur demande."
+      ],
+      [
+        "Comment fonctionne le plan de paiement ?",
+        "Un plan flexible est proposé. Demandez votre échéancier personnalisé et ses conditions contractuelles à l’équipe MARTA."
+      ],
+      [
+        "Où en est le projet ?",
+        "Le projet est officiellement lancé, le terrain est signé et les architectes finalisent les plans techniques, selon les informations du promoteur."
+      ],
+      [
+        "Puis-je louer ma villa ?",
+        "Le projet est pensé pour la location courte durée. L’équipe vous présentera les modalités de gestion, les coûts et les conditions applicables."
+      ]
+    ],
+    "contact": "Votre histoire à Bali\ncommence ici.",
+    "contactBody": "Recevez les disponibilités, les plans et une proposition personnalisée.",
+    "formFallback": "Ouvrir le formulaire",
+    "whatsapp": "Échanger sur WhatsApp",
+    "legal": "Visuels architecturaux et images d’ambiance retravaillés ou générés par IA, non contractuels. Prix en USD, disponibilités, surfaces et prestations à confirmer auprès du promoteur. Les paysages illustrent Bali et ne représentent pas la vue depuis les villas.",
+    "back": "Retour en haut",
+    "skip": "Aller au contenu",
+    "language": "Langue",
+    "formTitle": "Demande d’information MARTA",
+    "formNote": "Le formulaire est fourni par Tally.",
+    "caption": "MARTA Residences · Jimbaran, Bali"
+  },
+  "en": {
+    "nav": [
+      "The villas",
+      "Bali",
+      "Ownership"
+    ],
+    "cta": "Request the brochure",
+    "discover": "Discover the villas",
+    "hero": "Bali living.\nReimagined.",
+    "heroBody": "Six private villas in Jimbaran. Mediterranean elegance, Balinese soul.",
+    "from": "Starting from",
+    "price": "$225,000",
+    "area": "of living space",
+    "beds": "bedrooms",
+    "private": "private villas",
+    "sold": "already sold",
+    "soldNote": "Availability reported by the developer.",
+    "intro": "A different pace.\nA different life.",
+    "introBody": "Light comes in. Time slows down. A home open to nature, designed to experience Bali to the fullest.",
+    "quality": "French quality. Bali soul.",
+    "qualityBody": "French attention to detail, contemporary architecture and materials that make you want to stay.",
+    "living": "Inside. Outside.\nNaturally.",
+    "livingBody": "A sunken lounge, full-height glazing and your own pool. Spaces flow together, effortlessly.",
+    "bedroom": "The luxury of calm.",
+    "bedroomBody": "Two bedrooms, soft textures and palm-filtered light. Your retreat, at your own pace.",
+    "dining": "The good days.",
+    "diningBody": "Cook, share, linger a little longer. The pleasure of a real home.",
+    "plans": "150 m².\nRoom for everything.",
+    "plansBody": "Two levels, two bedrooms, a private pool. Explore the villa layout and the estate plan.",
+    "floor": "Villa floor plan",
+    "master": "Estate plan",
+    "enlarge": "Enlarge the plan",
+    "close": "Close",
+    "planNote": "Plans and areas are indicative and subject to contractual documents.",
+    "baliTitle": "Bali.\nIt feels right.",
+    "baliBody": "The ocean, the landscapes, the culture. A destination to experience, a place to return to.",
+    "baliReasons": [
+      [
+        "A way of life",
+        "Beaches, restaurants, wellbeing and sunsets. A natural balance to every day."
+      ],
+      [
+        "A sought-after destination",
+        "An international community, a distinct culture and countless ways to explore the island."
+      ],
+      [
+        "Your island home",
+        "Enjoy your villa and explore short-stay rental options with the project team."
+      ]
+    ],
+    "location": "Jimbaran.\nThe right address.",
+    "locationBody": "Southern Bali within reach. Beaches, renowned hotels and everyday life close by.",
+    "places": [
+      "AYANA hotel",
+      "Four Seasons",
+      "Jimbaran beach",
+      "Universe Padel",
+      "International airport"
+    ],
+    "map": "View on the map",
+    "timeNote": "Indicative distances and travel times supplied by the developer; traffic may vary.",
+    "buy": "Your villa.\nYour way.",
+    "buyBody": "Remote purchasing available, with a flexible payment plan discussed with you.",
+    "steps": [
+      [
+        "Discover",
+        "Visit in person or by video call. Explore plans and current availability."
+      ],
+      [
+        "Shape your purchase",
+        "Discuss your villa and a payment schedule tailored to your circumstances."
+      ],
+      [
+        "Move forward together",
+        "Review acquisition terms, documents and project updates with the team."
+      ]
+    ],
+    "payment": "Flexible payments",
+    "remote": "Remote purchase",
+    "paymentNote": "Payment schedule, acquisition terms and fees will be confirmed in your personalised proposal.",
+    "faqTitle": "It starts\nwith a question.",
+    "faqs": [
+      [
+        "Can I purchase remotely?",
+        "Yes. The team can arrange a video presentation and guide you through the process. Please confirm signing arrangements with them."
+      ],
+      [
+        "What is the starting price?",
+        "Villas start at USD 225,000. Request the latest price list, fees and availability."
+      ],
+      [
+        "How does the payment plan work?",
+        "A flexible plan is available. Ask the MARTA team for your personalised schedule and contractual terms."
+      ],
+      [
+        "What stage is the project at?",
+        "According to the developer, the project has launched, the land is signed and architects are finalising the technical plans."
+      ],
+      [
+        "Can I rent out my villa?",
+        "The project is designed with short-stay rentals in mind. The team will explain management options, costs and applicable terms."
+      ]
+    ],
+    "contact": "Your Bali story\nstarts here.",
+    "contactBody": "Receive current availability, floor plans and a personalised proposal.",
+    "formFallback": "Open the form",
+    "whatsapp": "Chat on WhatsApp",
+    "legal": "Architectural and lifestyle visuals enhanced or generated with AI are illustrative. USD prices, availability, areas and specifications must be confirmed with the developer. Landscape images illustrate Bali and do not show the view from the villas.",
+    "back": "Back to top",
+    "skip": "Skip to content",
+    "language": "Language",
+    "formTitle": "MARTA information request",
+    "formNote": "This form is provided by Tally.",
+    "caption": "MARTA Residences · Jimbaran, Bali"
+  },
+  "nl": {
+    "nav": [
+      "De villa’s",
+      "Bali",
+      "Aankoop"
+    ],
+    "cta": "Brochure aanvragen",
+    "discover": "Ontdek de villa’s",
+    "hero": "Wonen op Bali.\nOp jouw manier.",
+    "heroBody": "Zes privévilla’s in Jimbaran. Mediterrane elegantie, Balinese ziel.",
+    "from": "Vanaf",
+    "price": "$ 225.000",
+    "area": "leefruimte",
+    "beds": "slaapkamers",
+    "private": "privévilla’s",
+    "sold": "al verkocht",
+    "soldNote": "Beschikbaarheid volgens de ontwikkelaar.",
+    "intro": "Een ander ritme.\nEen ander leven.",
+    "introBody": "Het licht valt binnen. De tijd vertraagt. Een huis dat openstaat voor de natuur, om Bali ten volle te beleven.",
+    "quality": "French quality. Bali soul.",
+    "qualityBody": "Franse aandacht voor detail, hedendaagse architectuur en materialen die uitnodigen om te blijven.",
+    "living": "Binnen. Buiten.\nVanzelfsprekend.",
+    "livingBody": "Een verdiepte lounge, grote glaspartijen en een privézwembad. Ruimtes die natuurlijk in elkaar overvloeien.",
+    "bedroom": "De luxe van rust.",
+    "bedroomBody": "Twee slaapkamers, zachte texturen en licht door de palmen. Jouw toevluchtsoord, op jouw tempo.",
+    "dining": "De mooie dagen.",
+    "diningBody": "Koken, delen, nog even blijven zitten. Het plezier van een echt thuis.",
+    "plans": "150 m².\nAlles op zijn plek.",
+    "plansBody": "Twee verdiepingen, twee slaapkamers en een privézwembad. Bekijk de indeling en het terreinplan.",
+    "floor": "Plattegrond villa",
+    "master": "Terreinplan",
+    "enlarge": "Plan vergroten",
+    "close": "Sluiten",
+    "planNote": "Plannen en oppervlaktes zijn indicatief en onder voorbehoud van de contractstukken.",
+    "baliTitle": "Bali.\nHet voelt goed.",
+    "baliBody": "De oceaan, het landschap, de cultuur. Een bestemming om te beleven en steeds naar terug te keren.",
+    "baliReasons": [
+      [
+        "Een manier van leven",
+        "Stranden, restaurants, wellness en zonsondergangen. Elke dag in balans."
+      ],
+      [
+        "Een geliefde bestemming",
+        "Een internationale gemeenschap, een eigen cultuur en talloze manieren om het eiland te ontdekken."
+      ],
+      [
+        "Jouw thuis op het eiland",
+        "Geniet van je villa en bespreek kortetermijnverhuur met het projectteam."
+      ]
+    ],
+    "location": "Jimbaran.\nDe juiste plek.",
+    "locationBody": "Zuid-Bali binnen handbereik. Stranden, bekende hotels en het dagelijkse leven dichtbij.",
+    "places": [
+      "Hotel AYANA",
+      "Four Seasons",
+      "Strand van Jimbaran",
+      "Universe Padel",
+      "Internationale luchthaven"
+    ],
+    "map": "Bekijk op de kaart",
+    "timeNote": "Indicatieve afstanden en reistijden van de ontwikkelaar, afhankelijk van het verkeer.",
+    "buy": "Jouw villa.\nJouw keuze.",
+    "buyBody": "Aankoop op afstand is mogelijk, met een flexibel betalingsplan in overleg.",
+    "steps": [
+      [
+        "Ontdekken",
+        "Bezoek ter plaatse of via videogesprek. Bekijk de plannen en beschikbaarheid."
+      ],
+      [
+        "Je aankoop vormgeven",
+        "Bespreek je villa en een betalingsschema dat past bij jouw situatie."
+      ],
+      [
+        "Samen verder",
+        "Bespreek aankoopvoorwaarden, documenten en projectupdates met het team."
+      ]
+    ],
+    "payment": "Flexibel betalen",
+    "remote": "Aankoop op afstand",
+    "paymentNote": "Betalingsschema, aankoopvoorwaarden en kosten worden bevestigd in je persoonlijke voorstel.",
+    "faqTitle": "Het begint\nmet een vraag.",
+    "faqs": [
+      [
+        "Kan ik op afstand kopen?",
+        "Ja. Het team kan een videogesprek organiseren en je door het proces begeleiden. Bespreek de ondertekening met het team."
+      ],
+      [
+        "Wat is de vanafprijs?",
+        "Villa’s zijn beschikbaar vanaf 225.000 USD. Vraag de actuele prijzen, kosten en beschikbaarheid aan."
+      ],
+      [
+        "Hoe werkt het betalingsplan?",
+        "Er is een flexibel plan beschikbaar. Vraag het MARTA-team naar je persoonlijke schema en de contractvoorwaarden."
+      ],
+      [
+        "In welke fase zit het project?",
+        "Volgens de ontwikkelaar is het project gestart, is het terrein getekend en werken de architecten de technische plannen af."
+      ],
+      [
+        "Kan ik mijn villa verhuren?",
+        "Het project is ontworpen met kortetermijnverhuur in gedachten. Het team licht het beheer, de kosten en de voorwaarden toe."
+      ]
+    ],
+    "contact": "Jouw Bali-verhaal\nbegint hier.",
+    "contactBody": "Ontvang de beschikbaarheid, plattegronden en een persoonlijk voorstel.",
+    "formFallback": "Formulier openen",
+    "whatsapp": "Chat via WhatsApp",
+    "legal": "Architectuur- en sfeerbeelden zijn met AI bewerkt of gegenereerd en zijn illustratief. Prijzen in USD, beschikbaarheid, oppervlaktes en specificaties moeten door de ontwikkelaar worden bevestigd. Landschappen tonen Bali, niet het uitzicht vanuit de villa’s.",
+    "back": "Naar boven",
+    "skip": "Naar de inhoud",
+    "language": "Taal",
+    "formTitle": "MARTA informatieaanvraag",
+    "formNote": "Dit formulier wordt aangeboden door Tally.",
+    "caption": "MARTA Residences · Jimbaran, Bali"
+  },
+  "de": {
+    "nav": [
+      "Die Villen",
+      "Bali",
+      "Kauf"
+    ],
+    "cta": "Exposé anfordern",
+    "discover": "Villen entdecken",
+    "hero": "Bali leben.\nNeu gedacht.",
+    "heroBody": "Sechs private Villen in Jimbaran. Mediterrane Eleganz, balinesische Seele.",
+    "from": "Ab",
+    "price": "225.000 $",
+    "area": "Wohnfläche",
+    "beds": "Schlafzimmer",
+    "private": "private Villen",
+    "sold": "bereits verkauft",
+    "soldNote": "Verfügbarkeit laut Projektentwickler.",
+    "intro": "Ein anderer Rhythmus.\nEin anderes Leben.",
+    "introBody": "Licht flutet herein. Die Zeit wird langsamer. Ein Haus, das sich zur Natur öffnet und Bali erlebbar macht.",
+    "quality": "French quality. Bali soul.",
+    "qualityBody": "Französischer Qualitätsanspruch, zeitgemäße Architektur und Materialien, die zum Bleiben einladen.",
+    "living": "Drinnen. Draußen.\nGanz natürlich.",
+    "livingBody": "Eine abgesenkte Lounge, großzügige Glasfronten und ein privater Pool. Räume, die natürlich ineinander übergehen.",
+    "bedroom": "Der Luxus der Ruhe.",
+    "bedroomBody": "Zwei Schlafzimmer, weiche Texturen und Licht zwischen Palmen. Ihr Rückzugsort, in Ihrem Tempo.",
+    "dining": "Die schönen Tage.",
+    "diningBody": "Kochen, teilen, den Abend verlängern. Die Freude an einem echten Zuhause.",
+    "plans": "150 m².\nAlles hat seinen Platz.",
+    "plansBody": "Zwei Ebenen, zwei Schlafzimmer und ein privater Pool. Entdecken Sie Grundriss und Lageplan.",
+    "floor": "Villengrundriss",
+    "master": "Lageplan",
+    "enlarge": "Plan vergrößern",
+    "close": "Schließen",
+    "planNote": "Pläne und Flächen sind unverbindlich; maßgeblich sind die Vertragsunterlagen.",
+    "baliTitle": "Bali.\nFühlt sich richtig an.",
+    "baliBody": "Der Ozean, die Landschaften, die Kultur. Ein Ort zum Erleben und zum Wiederkommen.",
+    "baliReasons": [
+      [
+        "Eine Lebensart",
+        "Strände, Restaurants, Wellness und Sonnenuntergänge. Jeder Tag findet sein Gleichgewicht."
+      ],
+      [
+        "Ein begehrtes Reiseziel",
+        "Eine internationale Gemeinschaft, eine besondere Kultur und vielfältige Möglichkeiten, die Insel zu entdecken."
+      ],
+      [
+        "Ihr Zuhause auf der Insel",
+        "Genießen Sie Ihre Villa und besprechen Sie Kurzzeitvermietung mit dem Projektteam."
+      ]
+    ],
+    "location": "Jimbaran.\nDie richtige Adresse.",
+    "locationBody": "Der Süden Balis in Reichweite. Strände, renommierte Hotels und der Alltag ganz nah.",
+    "places": [
+      "AYANA Hotel",
+      "Four Seasons",
+      "Jimbaran-Strand",
+      "Universe Padel",
+      "Internationaler Flughafen"
+    ],
+    "map": "Auf der Karte",
+    "timeNote": "Unverbindliche Entfernungen und Fahrzeiten laut Projektentwickler, abhängig vom Verkehr.",
+    "buy": "Ihre Villa.\nIhr Weg.",
+    "buyBody": "Kauf aus der Ferne möglich, mit einem flexibel abgestimmten Zahlungsplan.",
+    "steps": [
+      [
+        "Entdecken",
+        "Besichtigung vor Ort oder per Video. Pläne und aktuelle Verfügbarkeit kennenlernen."
+      ],
+      [
+        "Ihren Kauf gestalten",
+        "Besprechen Sie Ihre Villa und einen Zahlungsplan passend zu Ihrer Situation."
+      ],
+      [
+        "Begleitet vorankommen",
+        "Kaufbedingungen, Dokumente und Projektfortschritt mit dem Team abstimmen."
+      ]
+    ],
+    "payment": "Flexible Zahlungen",
+    "remote": "Kauf aus der Ferne",
+    "paymentNote": "Zahlungsplan, Erwerbsbedingungen und Gebühren werden im persönlichen Angebot bestätigt.",
+    "faqTitle": "Alles beginnt\nmit einer Frage.",
+    "faqs": [
+      [
+        "Kann ich aus der Ferne kaufen?",
+        "Ja. Das Team kann eine Videopräsentation organisieren und Sie begleiten. Die Unterzeichnung stimmen Sie direkt mit dem Team ab."
+      ],
+      [
+        "Wie hoch ist der Einstiegspreis?",
+        "Villen werden ab 225.000 USD angeboten. Aktuelle Preise, Gebühren und Verfügbarkeit erhalten Sie auf Anfrage."
+      ],
+      [
+        "Wie funktioniert der Zahlungsplan?",
+        "Ein flexibler Plan ist möglich. Fragen Sie das MARTA-Team nach Ihrem individuellen Zeitplan und den Vertragsbedingungen."
+      ],
+      [
+        "Wie weit ist das Projekt?",
+        "Laut Projektentwickler ist das Projekt gestartet, der Grundstücksvertrag unterzeichnet und die technische Planung wird fertiggestellt."
+      ],
+      [
+        "Kann ich meine Villa vermieten?",
+        "Das Projekt ist auf Kurzzeitvermietung ausgerichtet. Das Team erläutert Verwaltung, Kosten und geltende Bedingungen."
+      ]
+    ],
+    "contact": "Ihre Bali-Geschichte\nbeginnt hier.",
+    "contactBody": "Erhalten Sie aktuelle Verfügbarkeit, Grundrisse und ein persönliches Angebot.",
+    "formFallback": "Formular öffnen",
+    "whatsapp": "Kontakt per WhatsApp",
+    "legal": "Architektur- und Stimmungsbilder wurden mit KI bearbeitet oder generiert und sind unverbindlich. USD-Preise, Verfügbarkeit, Flächen und Ausstattung sind beim Projektentwickler zu bestätigen. Landschaftsbilder zeigen Bali, nicht den Ausblick aus den Villen.",
+    "back": "Nach oben",
+    "skip": "Zum Inhalt",
+    "language": "Sprache",
+    "formTitle": "MARTA Informationsanfrage",
+    "formNote": "Dieses Formular wird von Tally bereitgestellt.",
+    "caption": "MARTA Residences · Jimbaran, Bali"
+  },
+  "es": {
+    "nav": [
+      "Las villas",
+      "Bali",
+      "Comprar"
+    ],
+    "cta": "Solicitar el dossier",
+    "discover": "Descubrir las villas",
+    "hero": "Vivir Bali.\nDe otra manera.",
+    "heroBody": "Seis villas privadas en Jimbaran. Elegancia mediterránea, alma balinesa.",
+    "from": "Desde",
+    "price": "225.000 US$",
+    "area": "de espacio para vivir",
+    "beds": "dormitorios",
+    "private": "villas privadas",
+    "sold": "ya vendido",
+    "soldNote": "Disponibilidad comunicada por el promotor.",
+    "intro": "Otro ritmo.\nOtra vida.",
+    "introBody": "Entra la luz. El tiempo se detiene. Una casa abierta a la naturaleza, pensada para vivir Bali plenamente.",
+    "quality": "French quality. Bali soul.",
+    "qualityBody": "Exigencia francesa, arquitectura contemporánea y materiales que invitan a quedarse.",
+    "living": "Dentro. Fuera.\nCon naturalidad.",
+    "livingBody": "Un salón a desnivel, grandes ventanales y piscina privada. Espacios que se conectan de forma natural.",
+    "bedroom": "El lujo de la calma.",
+    "bedroomBody": "Dos dormitorios, texturas suaves y luz entre palmeras. Tu refugio, a tu ritmo.",
+    "dining": "Los días felices.",
+    "diningBody": "Cocinar, compartir, alargar la velada. El placer de una auténtica casa.",
+    "plans": "150 m².\nCada cosa en su lugar.",
+    "plansBody": "Dos plantas, dos dormitorios y piscina privada. Descubre la distribución y el plano del conjunto.",
+    "floor": "Plano de la villa",
+    "master": "Plano del conjunto",
+    "enlarge": "Ampliar el plano",
+    "close": "Cerrar",
+    "planNote": "Planos y superficies orientativos, sujetos a los documentos contractuales.",
+    "baliTitle": "Bali.\nSe siente bien.",
+    "baliBody": "El océano, los paisajes, la cultura. Un destino para vivir y un lugar al que volver.",
+    "baliReasons": [
+      [
+        "Un estilo de vida",
+        "Playas, restaurantes, bienestar y atardeceres. Cada día encuentra su equilibrio."
+      ],
+      [
+        "Un destino deseado",
+        "Una comunidad internacional, una cultura singular y muchas maneras de descubrir la isla."
+      ],
+      [
+        "Tu casa en la isla",
+        "Disfruta de tu villa y consulta las opciones de alquiler vacacional con el equipo."
+      ]
+    ],
+    "location": "Jimbaran.\nEl lugar perfecto.",
+    "locationBody": "El sur de Bali a tu alcance. Playas, hoteles reconocidos y vida cotidiana cerca.",
+    "places": [
+      "Hotel AYANA",
+      "Four Seasons",
+      "Playa de Jimbaran",
+      "Universe Padel",
+      "Aeropuerto internacional"
+    ],
+    "map": "Ver en el mapa",
+    "timeNote": "Distancias y trayectos orientativos proporcionados por el promotor, según el tráfico.",
+    "buy": "Tu villa.\nA tu manera.",
+    "buyBody": "Compra a distancia posible, con un plan de pago flexible estudiado contigo.",
+    "steps": [
+      [
+        "Descubrir",
+        "Visita presencial o por videollamada. Presentación de planos y disponibilidad."
+      ],
+      [
+        "Diseñar tu compra",
+        "Habla de tu villa y de un calendario de pagos adaptado a tu situación."
+      ],
+      [
+        "Avanzar acompañado",
+        "Revisa condiciones de compra, documentos y seguimiento del proyecto con el equipo."
+      ]
+    ],
+    "payment": "Pagos flexibles",
+    "remote": "Compra a distancia",
+    "paymentNote": "El calendario, las condiciones de compra y los gastos se confirmarán en tu propuesta personalizada.",
+    "faqTitle": "Todo empieza\ncon una pregunta.",
+    "faqs": [
+      [
+        "¿Puedo comprar a distancia?",
+        "Sí. El equipo puede organizar una presentación por vídeo y acompañarte en el proceso. Confirma las modalidades de firma con ellos."
+      ],
+      [
+        "¿Cuál es el precio inicial?",
+        "Las villas se ofrecen desde 225.000 USD. Solicita precios, gastos y disponibilidad actualizados."
+      ],
+      [
+        "¿Cómo funciona el plan de pago?",
+        "Se ofrece un plan flexible. Pide al equipo MARTA tu calendario personalizado y sus condiciones contractuales."
+      ],
+      [
+        "¿En qué fase está el proyecto?",
+        "Según el promotor, el proyecto está lanzado, el terreno está firmado y los arquitectos están finalizando los planos técnicos."
+      ],
+      [
+        "¿Puedo alquilar mi villa?",
+        "El proyecto está pensado para estancias cortas. El equipo te explicará la gestión, los costes y las condiciones aplicables."
+      ]
+    ],
+    "contact": "Tu historia en Bali\nempieza aquí.",
+    "contactBody": "Recibe disponibilidad, planos y una propuesta personalizada.",
+    "formFallback": "Abrir el formulario",
+    "whatsapp": "Hablar por WhatsApp",
+    "legal": "Imágenes arquitectónicas y de ambiente mejoradas o generadas con IA, de carácter ilustrativo. Precios en USD, disponibilidad, superficies y prestaciones a confirmar con el promotor. Los paisajes ilustran Bali, no las vistas desde las villas.",
+    "back": "Volver arriba",
+    "skip": "Ir al contenido",
+    "language": "Idioma",
+    "formTitle": "Solicitud de información MARTA",
+    "formNote": "Formulario proporcionado por Tally.",
+    "caption": "MARTA Residences · Jimbaran, Bali"
+  },
+  "pt": {
+    "nav": [
+      "As villas",
+      "Bali",
+      "Comprar"
+    ],
+    "cta": "Pedir o dossier",
+    "discover": "Descobrir as villas",
+    "hero": "Viver Bali.\nDe outra forma.",
+    "heroBody": "Seis villas privadas em Jimbaran. Elegância mediterrânica, alma balinesa.",
+    "from": "A partir de",
+    "price": "225.000 US$",
+    "area": "de espaço para viver",
+    "beds": "quartos",
+    "private": "villas privadas",
+    "sold": "já vendido",
+    "soldNote": "Disponibilidade comunicada pelo promotor.",
+    "intro": "Outro ritmo.\nOutra vida.",
+    "introBody": "A luz entra. O tempo abranda. Uma casa aberta à natureza, pensada para viver Bali plenamente.",
+    "quality": "French quality. Bali soul.",
+    "qualityBody": "Exigência francesa, arquitetura contemporânea e materiais que convidam a ficar.",
+    "living": "Dentro. Fora.\nNaturalmente.",
+    "livingBody": "Uma sala rebaixada, amplas janelas e piscina privada. Espaços que se ligam de forma natural.",
+    "bedroom": "O luxo da calma.",
+    "bedroomBody": "Dois quartos, texturas suaves e luz entre palmeiras. O seu refúgio, ao seu ritmo.",
+    "dining": "Os dias felizes.",
+    "diningBody": "Cozinhar, partilhar, prolongar a noite. O prazer de uma verdadeira casa.",
+    "plans": "150 m².\nTudo no seu lugar.",
+    "plansBody": "Dois pisos, dois quartos e piscina privada. Descubra a distribuição e a planta do conjunto.",
+    "floor": "Planta da villa",
+    "master": "Planta do conjunto",
+    "enlarge": "Ampliar a planta",
+    "close": "Fechar",
+    "planNote": "Plantas e áreas indicativas, sujeitas aos documentos contratuais.",
+    "baliTitle": "Bali.\nFaz todo o sentido.",
+    "baliBody": "O oceano, as paisagens, a cultura. Um destino para viver e um lugar ao qual regressar.",
+    "baliReasons": [
+      [
+        "Um estilo de vida",
+        "Praias, restaurantes, bem-estar e pores do sol. Cada dia encontra o seu equilíbrio."
+      ],
+      [
+        "Um destino desejado",
+        "Uma comunidade internacional, uma cultura singular e inúmeras formas de descobrir a ilha."
+      ],
+      [
+        "A sua casa na ilha",
+        "Desfrute da sua villa e explore as opções de arrendamento de curta duração com a equipa."
+      ]
+    ],
+    "location": "Jimbaran.\nO lugar certo.",
+    "locationBody": "O sul de Bali ao seu alcance. Praias, hotéis reconhecidos e a vida quotidiana por perto.",
+    "places": [
+      "Hotel AYANA",
+      "Four Seasons",
+      "Praia de Jimbaran",
+      "Universe Padel",
+      "Aeroporto internacional"
+    ],
+    "map": "Ver no mapa",
+    "timeNote": "Distâncias e tempos indicativos fornecidos pelo promotor, dependentes do trânsito.",
+    "buy": "A sua villa.\nÀ sua maneira.",
+    "buyBody": "Compra à distância possível, com um plano de pagamento flexível estudado consigo.",
+    "steps": [
+      [
+        "Descobrir",
+        "Visita presencial ou por videochamada. Apresentação das plantas e da disponibilidade."
+      ],
+      [
+        "Preparar a compra",
+        "Converse sobre a sua villa e um calendário de pagamentos adaptado à sua situação."
+      ],
+      [
+        "Avançar acompanhado",
+        "Reveja condições de aquisição, documentos e acompanhamento do projeto com a equipa."
+      ]
+    ],
+    "payment": "Pagamentos flexíveis",
+    "remote": "Compra à distância",
+    "paymentNote": "Calendário, condições de aquisição e despesas a confirmar na sua proposta personalizada.",
+    "faqTitle": "Tudo começa\ncom uma pergunta.",
+    "faqs": [
+      [
+        "Posso comprar à distância?",
+        "Sim. A equipa pode organizar uma apresentação por vídeo e acompanhar o processo. Confirme as modalidades de assinatura com a equipa."
+      ],
+      [
+        "Qual é o preço inicial?",
+        "As villas são propostas a partir de 225.000 USD. Solicite preços, despesas e disponibilidade atualizados."
+      ],
+      [
+        "Como funciona o plano de pagamento?",
+        "Está disponível um plano flexível. Peça à equipa MARTA o seu calendário personalizado e as condições contratuais."
+      ],
+      [
+        "Em que fase está o projeto?",
+        "Segundo o promotor, o projeto foi lançado, o terreno está assinado e os arquitetos estão a finalizar os planos técnicos."
+      ],
+      [
+        "Posso arrendar a minha villa?",
+        "O projeto foi pensado para estadias curtas. A equipa explicará as opções de gestão, os custos e as condições aplicáveis."
+      ]
+    ],
+    "contact": "A sua história em Bali\ncomeça aqui.",
+    "contactBody": "Receba a disponibilidade, plantas e uma proposta personalizada.",
+    "formFallback": "Abrir o formulário",
+    "whatsapp": "Conversar no WhatsApp",
+    "legal": "Imagens de arquitetura e ambiente melhoradas ou geradas com IA, meramente ilustrativas. Preços em USD, disponibilidade, áreas e características a confirmar com o promotor. As paisagens ilustram Bali e não a vista das villas.",
+    "back": "Voltar ao topo",
+    "skip": "Ir para o conteúdo",
+    "language": "Idioma",
+    "formTitle": "Pedido de informação MARTA",
+    "formNote": "Formulário disponibilizado pelo Tally.",
+    "caption": "MARTA Residences · Jimbaran, Bali"
+  }
+}
