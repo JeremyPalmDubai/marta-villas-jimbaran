@@ -32,11 +32,11 @@ Aucune dépendance JavaScript à installer, aucun service serveur à héberger. 
 
 ## GitHub Pages
 
-1. Créer le dépôt voulu et y placer le contenu de ce dossier à la racine.
+1. Le site et ses médias sont dans ce dépôt.
 2. Choisir **Settings → Pages → Source → GitHub Actions**.
-3. Publier la branche `main` : le workflow fourni génère les six langues, les URL canoniques et le sitemap pour marta-villas-jimbaran.com, puis déploie le dossier `dist`.
+3. Dans **Actions → Publish MARTA × PALM → Run workflow**, lancer la publication. Le workflow génère les six langues, les URL canoniques et le sitemap, puis publie `dist`. Le lancement est manuel.
 
-Dépôt prévu : https://github.com/JeremyPalmDubai/marta-villas-jimbaran. Le domaine et son DNS doivent être configurés séparément. Voir `audit/README.md` pour les résultats et limites des contrôles.
+Dépôt : https://github.com/JeremyPalmDubai/marta-villas-jimbaran. Le domaine et son DNS doivent être configurés séparément. Voir `audit/README.md` pour les résultats et limites des contrôles.
 
 ## Sources du contenu
 
