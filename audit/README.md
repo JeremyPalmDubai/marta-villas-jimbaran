@@ -14,6 +14,8 @@ Titres longs ajustés, débordement néerlandais à 320 px corrigé, contraste d
 
 Plan colorisé avec relief léger ; titres Ground floor et Second floor alignés en vraie typographie Suisse. Original technique accessible séparément. Image fournie de Gabriella intégrée et optimisée.
 
+Dernières retouches : galerie vidéo horizontale bord à bord, six cartes de dimensions identiques, image de Bali avant la FAQ et espacement supérieur adaptatif. Ces retouches sont incluses dans le dépôt.
+
 ## Ce que ces résultats signifient
 
 Les 126 vérifications forment une grille interne transparente ; **ce n’est pas un score Lighthouse 100/100**, une certification WCAG ou une garantie de classement Google. La qualité UI/UX ne possède pas de score universel. Les contrôles responsive de géométrie ne remplacent pas une revue visuelle de chaque écran.
